@@ -9,9 +9,9 @@ Scope: `profile/README.md`, the public Tinder GitHub organization profile.
   The README itself is the rendered reference for these patterns.
 - Keep the profile concise and focused on engineering, the tech blog, open source
   and careers. Use a single-column layout that reads naturally on mobile.
-- Set the mission beneath the introductory heading as an italic Markdown
-  blockquote. Use GitHub's native quote border and spacing; this replaces the
-  earlier bold-paragraph treatment.
+- Set the mission beneath the introductory heading as a level-three heading
+  inside a Markdown blockquote. Use GitHub's native bold heading, quote border
+  and spacing. This prominent treatment replaces the earlier italic pull quote.
 - Do not use em dashes. Separate headings, descriptions and links with paragraph
   breaks instead. Avoid decorative badges, wide tables and oversized banners.
 - Keep the engineering blog near the top in its own section. Use the supplied
@@ -30,14 +30,15 @@ Scope: `profile/README.md`, the public Tinder GitHub organization profile.
   [Q3 2025 prepared remarks, page 3](https://s203.q4cdn.com/993464185/files/doc_financials/2025/q3/MTCH-3Q-2025-Prepared-Remarks-vFinal.pdf#page=3).
 - Capitalize team and discipline names consistently in prose and list labels:
   Product Innovation, Mobile, Backend, Infrastructure, Recommendations,
-  Machine Learning, Trust and Safety, Developer Experience and Delivery Tools.
+  Machine Learning, and Trust and Safety.
   Keep connecting words such as "and" lowercase.
 - Represent both member-facing and enabling engineering work. The overview
   should cover Product Innovation, Mobile, Backend and Infrastructure,
-  Recommendations and Machine Learning, Trust and Safety, and Developer
-  Experience and Delivery Tools. These are areas of work, not an exhaustive
-  organizational chart. Keep Backend explicit rather than implying it under
-  Infrastructure, and include the build, test, release and operate lifecycle.
+  Recommendations and Machine Learning, and Trust and Safety. These are areas
+  of work, not an exhaustive organizational chart. Keep Backend explicit rather
+  than implying it under Infrastructure. Do not include a Developer Experience
+  and Delivery Tools bullet in this profile; the owner's latest editorial
+  direction supersedes the earlier request to include that area.
 - Describe enduring engineering challenges. Avoid dated launch roundups, rollout
   promises, product-status claims and performance statistics unless their current
   accuracy and public suitability have been verified. Link to the blog for stories.

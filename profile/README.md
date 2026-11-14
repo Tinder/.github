@@ -2,7 +2,7 @@
 
 ## Engineering real connections
 
-> *Tinder is the most fun way to spark something new with someone new.*
+> ### Tinder is the most fun way to spark something new with someone new.
 
 Our Engineering teams build the experiences, systems and tools that help people connect.
 
@@ -19,7 +19,6 @@ Engineering stories and insights from the team building Tinder.
 - **Backend and Infrastructure**: services and distributed systems that keep Tinder reliable at scale.
 - **Recommendations and Machine Learning**: helping people discover meaningful connections.
 - **Trust and Safety**: building systems that help protect our members.
-- **Developer Experience and Delivery Tools**: platforms and tooling that help teams build, test, release and operate with confidence.
 
 ### 💻 Open source
 

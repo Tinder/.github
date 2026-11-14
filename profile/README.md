@@ -1,9 +1,6 @@
 <a href="https://tinder.com"><img src="assets/tinder-wordmark.svg" alt="Tinder" width="220"></a>
 
-<picture>
-  <source media="(max-width: 600px)" srcset="assets/mission-mobile.svg">
-  <img src="assets/mission.svg" alt="Tinder is the most fun way to spark something new with someone new." width="1120">
-</picture>
+## Tinder is the most fun way to spark something new with someone new.
 
 Our Engineering teams build the experiences, systems and tools that help people connect.
 

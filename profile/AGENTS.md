@@ -4,17 +4,16 @@ Scope: `profile/README.md`, the public Tinder GitHub organization profile.
 
 ## Presentation
 
-- Use a branded mission banner followed by GitHub's native Markdown styling:
+- Use the mission as the primary level-two heading, followed by GitHub's native Markdown styling:
   emoji-prefixed level-three sections, short paragraphs and descriptive links.
   The README itself is the rendered reference for these patterns.
 - Keep the profile concise and focused on engineering, the tech blog, open source
   and careers. Use a single-column layout that reads naturally on mobile.
-- Make the mission the dominant headline below the wordmark. Use white text on
-  Flame red (#CD130A) in `assets/mission.svg`, with `mission-mobile.svg` selected
-  below 600px through a picture element. Keep the exact mission in the image alt
-  text and SVG title. Use a compact two-line desktop and three-line mobile layout.
-  This supersedes the gray blockquote and the competing "Engineering real
-  connections" heading; do not restore either.
+- Make the mission itself the primary headline below the wordmark. Use native
+  level-two heading text with GitHub's high-contrast foreground color. Do not
+  add a competing "Engineering real connections" heading. This supersedes
+  both the muted blockquote and the rejected red image banner. Keep the
+  mission as selectable text, with no colored panel or custom image treatment.
 - Do not use em dashes. Separate headings, descriptions and links with paragraph
   breaks instead. Avoid decorative badges, wide tables and oversized banners.
 - Keep the engineering blog near the top in its own section. Use the supplied
@@ -22,10 +21,8 @@ Scope: `profile/README.md`, the public Tinder GitHub organization profile.
 - Use the original 2026 rebrand wordmark in `assets/tinder-wordmark.svg`, at a
   compact width of 220 pixels. Preserve its proportions and color; do not redraw
   it or substitute the old lowercase wordmark or gradient flame.
-- GitHub supplies body typography, spacing, link colors and light/dark themes.
-  The mission SVG is the only custom text-color treatment; it uses standard
-  sans-serif fonts and the verified wordmark's Flame red. Do not add page CSS
-  or custom font dependencies.
+- GitHub supplies typography, spacing, foreground and link colors, and
+  light/dark themes. Do not add page CSS or custom font dependencies.
 
 ## Content and validation
 

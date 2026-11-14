@@ -21,6 +21,13 @@ Scope: `profile/README.md`, the public Tinder GitHub organization profile.
 
 ## Content and validation
 
+- Use the publicly stated mission: "Tinder is the most fun way to spark something
+  new with someone new." This replaces the older "power and inspire real
+  connections" mission copy. Source: Match Group's
+  [Q3 2025 prepared remarks, page 3](https://s203.q4cdn.com/993464185/files/doc_financials/2025/q3/MTCH-3Q-2025-Prepared-Remarks-vFinal.pdf#page=3).
+- Capitalize team and discipline names consistently in prose and list labels:
+  Mobile, Machine Learning, Trust and Safety, Infrastructure, Recommendations,
+  and Developer Experience. Keep connecting words such as "and" lowercase.
 - Describe enduring engineering challenges. Avoid dated launch roundups, rollout
   promises, product-status claims and performance statistics unless their current
   accuracy and public suitability have been verified. Link to the blog for stories.

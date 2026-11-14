@@ -9,6 +9,9 @@ Scope: `profile/README.md`, the public Tinder GitHub organization profile.
   The README itself is the rendered reference for these patterns.
 - Keep the profile concise and focused on engineering, the tech blog, open source
   and careers. Use a single-column layout that reads naturally on mobile.
+- Set the mission beneath the introductory heading as an italic Markdown
+  blockquote. Use GitHub's native quote border and spacing; this replaces the
+  earlier bold-paragraph treatment.
 - Do not use em dashes. Separate headings, descriptions and links with paragraph
   breaks instead. Avoid decorative badges, wide tables and oversized banners.
 - Keep the engineering blog near the top in its own section. Use the supplied

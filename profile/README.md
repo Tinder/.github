@@ -2,7 +2,7 @@
 
 ## Engineering real connections
 
-**Tinder is the most fun way to spark something new with someone new.**
+> *Tinder is the most fun way to spark something new with someone new.*
 
 Our engineers work across Mobile, Machine Learning, Trust and Safety, and Infrastructure to help people connect.
 

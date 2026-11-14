@@ -29,8 +29,15 @@ Scope: `profile/README.md`, the public Tinder GitHub organization profile.
   connections" mission copy. Source: Match Group's
   [Q3 2025 prepared remarks, page 3](https://s203.q4cdn.com/993464185/files/doc_financials/2025/q3/MTCH-3Q-2025-Prepared-Remarks-vFinal.pdf#page=3).
 - Capitalize team and discipline names consistently in prose and list labels:
-  Mobile, Machine Learning, Trust and Safety, Infrastructure, Recommendations,
-  and Developer Experience. Keep connecting words such as "and" lowercase.
+  Product Innovation, Mobile, Backend, Infrastructure, Recommendations,
+  Machine Learning, Trust and Safety, Developer Experience and Delivery Tools.
+  Keep connecting words such as "and" lowercase.
+- Represent both member-facing and enabling engineering work. The overview
+  should cover Product Innovation, Mobile, Backend and Infrastructure,
+  Recommendations and Machine Learning, Trust and Safety, and Developer
+  Experience and Delivery Tools. These are areas of work, not an exhaustive
+  organizational chart. Keep Backend explicit rather than implying it under
+  Infrastructure, and include the build, test, release and operate lifecycle.
 - Describe enduring engineering challenges. Avoid dated launch roundups, rollout
   promises, product-status claims and performance statistics unless their current
   accuracy and public suitability have been verified. Link to the blog for stories.

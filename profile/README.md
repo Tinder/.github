@@ -6,6 +6,8 @@ We're on a mission to **power and inspire real connections by making meeting eas
 
 Tinder is the world's best-known dating app, and part of the [Match Group](https://mtch.com) family. We're a smaller team than you might think, which means every engineer, designer and product person here can make a big impact on how millions of people meet. 💫
 
+[Tinder Tech Blog](https://lifeattinder.com/engineering/blog) — Engineering stories and insights from the team building Tinder.
+
 ### 🚀 What we've been shipping
 
 This has been one of our biggest years ever. We held our first-ever product event in March, and we've been shipping steadily since:

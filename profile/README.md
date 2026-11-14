@@ -1,34 +1,26 @@
 ## Hey, we're Tinder 🔥
 
-![Tinder](https://cdn.prod.website-files.com/63c58849a05fd52eeca11844/6ab4116abf8aef7c3cb62924_red%20on%20off%20white.png)
+<img src="https://cdn.prod.website-files.com/63c58849a05fd52eeca11844/6ab4116abf8aef7c3cb62924_red%20on%20off%20white.png" alt="Tinder" width="320">
 
 We're on a mission to **power and inspire real connections by making meeting easy and fun for every new generation of singles.**
 
 Tinder is the world's best-known dating app, and part of the [Match Group](https://mtch.com) family. We're a smaller team than you might think, which means every engineer, designer and product person here can make a big impact on how millions of people meet. 💫
 
-[Tinder Tech Blog](https://lifeattinder.com/engineering/blog) — Engineering stories and insights from the team building Tinder.
+### 📝 Tinder Tech Blog
 
-### 🚀 What we've been shipping
+Engineering stories and insights from the team building Tinder.
 
-This has been one of our biggest years ever. We held our first-ever product event in March, and we've been shipping steadily since:
-
-- **Chemistry**: a new, AI-driven way to match. A short Q&A, plus an optional Camera Roll Scan (only with your permission), helps Tinder understand your personality, your vibe, and what matters to you.
-- **Modes**: lower-pressure ways to connect, including **Double Date**, **Music Mode** and **Astrology Mode**.
-- **Events**: helps people find things to do and meet in real life. It started as a pilot in Los Angeles and is now rolling out city by city.
-- **Face Check™**: a facial liveness check that confirms someone is a real person. Where it's live, interactions with bad actors have dropped **more than 50%**.
-- **"Are You Sure?"**: a gentle nudge that flags potentially harmful language before someone hits send.
-- **A fresh look, top to bottom**: a full rebrand, new search, a redesigned chat, a rebuilt Likes You tab, and new profiles and photo upload.
-- **Smarter recommendations**: a learning system that keeps taking in feedback so the right people show up sooner.
+**[Read the engineering blog](https://lifeattinder.com/engineering/blog)**
 
 ### 🛠️ The problems we work on
 
-The dating space is very human, which means it's complex and hard. It's also ripe for innovation, and we're going all in:
+Helping people connect brings together a wide range of engineering challenges:
 
 - **Recommendations at global scale**: ranking and matching where "relevant" means a real spark, not just a swipe
 - **Trust & safety**: identity verification, machine learning and real-time detection that keep bad actors out
-- **AI people can trust**: features like Chemistry, built around consent and guided by Match Group's [commitment on AI](https://mtch.com/trust-safety/our-commitment-to-ai/)
-- **Real life, not just the app**: Events and Modes that get people off their phones and out meeting each other
-- **Built for the world**: teams from San Francisco to Singapore to Switzerland, shipping for members in many countries and languages
+- **AI people can trust**: building with consent and guided by Match Group's [commitment on AI](https://mtch.com/trust-safety/our-commitment-to-ai/)
+- **Reliable experiences**: mobile apps, services and infrastructure that help people connect
+- **Built for the world**: making Tinder work for members across countries and languages
 
 ### 💛 The Tinder Code
 

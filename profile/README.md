@@ -4,7 +4,7 @@
 
 > *Tinder is the most fun way to spark something new with someone new.*
 
-Our engineers work across Mobile, Machine Learning, Trust and Safety, and Infrastructure to help people connect.
+Our Engineering teams build the experiences, systems and tools that help people connect.
 
 ### 📝 Tinder Tech Blog
 
@@ -14,10 +14,12 @@ Engineering stories and insights from the team building Tinder.
 
 ### 🛠️ What we work on
 
+- **Product Innovation**: experimenting with new ways to help people meet and connect.
+- **Mobile**: building intuitive, responsive experiences on iOS and Android.
+- **Backend and Infrastructure**: services and distributed systems that keep Tinder reliable at scale.
 - **Recommendations and Machine Learning**: helping people discover meaningful connections.
 - **Trust and Safety**: building systems that help protect our members.
-- **Mobile and Infrastructure**: making the experience reliable, responsive and accessible.
-- **Developer Experience**: tools and platforms that help teams build, test and ship.
+- **Developer Experience and Delivery Tools**: platforms and tooling that help teams build, test, release and operate with confidence.
 
 ### 💻 Open source
 

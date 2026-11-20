@@ -1,7 +1,6 @@
 ## Hey, we're Tinder 🔥
 
-![Tinder](https://cdn.prod.website-files.com/63c58849a05fd52eeca11844/6ab4116abf8aef7c3cb62924_red%20on%20off%20white.png)
-
+![Tinder — a pink rose surrounded by flames](./tinder_banner_style2_1920x1008.jpg)
 We're on a mission to **power and inspire real connections by making meeting easy and fun for every new generation of singles.**
 
 Tinder is the world's best-known dating app, and part of the [Match Group](https://mtch.com) family. We're a smaller team than you might think, which means every engineer, designer and product person here can make a big impact on how millions of people meet. 💫

@@ -1,59 +1,35 @@
-## Hey, we're Tinder 🔥
+<a href="https://tinder.com"><img src="assets/tinder-wordmark.svg" alt="Tinder" width="220"></a>
 
-![Tinder — a pink rose surrounded by flames](./tinder_banner_style2_1920x1008.jpg)
-We're on a mission to **power and inspire real connections by making meeting easy and fun for every new generation of singles.**
+## Tinder is the most fun way to spark something new with someone new.
 
-Tinder is the world's best-known dating app, and part of the [Match Group](https://mtch.com) family. We're a smaller team than you might think, which means every engineer, designer and product person here can make a big impact on how millions of people meet. 💫
+Our Engineering teams build the experiences, systems and tools that help people connect.
 
-### 🚀 What we've been shipping
+### 📝 Tinder Tech Blog
 
-This has been one of our biggest years ever. We held our first-ever product event in March, and we've been shipping steadily since:
+Engineering stories and insights from the team building Tinder.
 
-- **Chemistry**: a new, AI-driven way to match. A short Q&A, plus an optional Camera Roll Scan (only with your permission), helps Tinder understand your personality, your vibe, and what matters to you.
-- **Modes**: lower-pressure ways to connect, including **Double Date**, **Music Mode** and **Astrology Mode**.
-- **Events**: helps people find things to do and meet in real life. It started as a pilot in Los Angeles and is now rolling out city by city.
-- **Face Check™**: a facial liveness check that confirms someone is a real person. Where it's live, interactions with bad actors have dropped **more than 50%**.
-- **"Are You Sure?"**: a gentle nudge that flags potentially harmful language before someone hits send.
-- **A fresh look, top to bottom**: a full rebrand, new search, a redesigned chat, a rebuilt Likes You tab, and new profiles and photo upload.
-- **Smarter recommendations**: a learning system that keeps taking in feedback so the right people show up sooner.
+**[Read the engineering blog](https://lifeattinder.com/engineering/blog)**
 
-### 🛠️ The problems we work on
+### 🛠️ What we work on
 
-The dating space is very human, which means it's complex and hard. It's also ripe for innovation, and we're going all in:
+- **Product Innovation**: experimenting with new ways to help people meet and connect.
+- **Mobile**: building intuitive, responsive experiences on iOS and Android.
+- **Backend and Infrastructure**: services and distributed systems that keep Tinder reliable at scale.
+- **Recommendations and Machine Learning**: helping people discover meaningful connections.
+- **Trust and Safety**: building systems that help protect our members.
 
-- **Recommendations at global scale**: ranking and matching where "relevant" means a real spark, not just a swipe
-- **Trust & safety**: identity verification, machine learning and real-time detection that keep bad actors out
-- **AI people can trust**: features like Chemistry, built around consent and guided by Match Group's [commitment on AI](https://mtch.com/trust-safety/our-commitment-to-ai/)
-- **Real life, not just the app**: Events and Modes that get people off their phones and out meeting each other
-- **Built for the world**: teams from San Francisco to Singapore to Switzerland, shipping for members in many countries and languages
+### 💻 Open source
 
-### 💛 The Tinder Code
+Explore the libraries, frameworks and tools we share with the developer community. Each project's README has its own documentation and contribution guidance.
 
-How we work together:
+**[Explore our repositories](https://github.com/orgs/Tinder/repositories)**
 
-- **Take the Lead**: we don't ghost our work or each other
-- **Move Fast**: if it could be done tomorrow, it's better done today
-- **Better Together**: connection is at the heart of dating and of how we work
-- **Real Talk**: we say the hard thing, the human way
-- **Safety First**: integrity, transparency and consistency, for members and teammates alike
-- **Spark Fun**: fun unlocks creativity and better experiences for daters
+### 💌 Build with us
 
-### 💌 Join us
+Help us solve the engineering challenges behind human connection.
 
-Want to help spark meaningful connections? **[Find your role → lifeattinder.com](https://www.lifeattinder.com/positions)** 🙌
-
-<details>
-  <summary>"Tell me more, I'm interested!"</summary>
-  <br>
-  <ul>
-    <li>Calling all engineers: <a href="https://www.lifeattinder.com/engineering">Engineering at Tinder</a></li>
-    <li>Where we work: <a href="https://www.lifeattinder.com/international">Our global teams</a></li>
-    <li>Early-career program: <a href="https://www.lifeattinder.com/tinderships">Tindership</a></li>
-    <li>Stories from the team: the <a href="https://www.lifeattinder.com/blog">Tinder blog</a></li>
-    <li>See every brand you could work on: <a href="https://mtch.com/careers">Match Group careers</a></li>
-  </ul>
-</details>
+**[Explore open roles](https://www.lifeattinder.com/positions)** · [Engineering at Tinder](https://www.lifeattinder.com/engineering) · [Life at Tinder](https://www.lifeattinder.com)
 
 ---
 
-<sub>Made with 🔥 by Team Tinder · [tinder.com](https://tinder.com) · [Instagram](https://www.instagram.com/lifeattinder/) · [LinkedIn](https://www.linkedin.com/company/tinder-incorporated) · Part of [Match Group](https://mtch.com)</sub>
+<sub>[tinder.com](https://tinder.com) · [LinkedIn](https://www.linkedin.com/company/tinder-incorporated) · Part of [Match Group](https://mtch.com)</sub>
